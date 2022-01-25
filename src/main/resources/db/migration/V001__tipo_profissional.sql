@@ -1,4 +1,4 @@
-create table tipo_profisional (
+create table tipo_profissional (
   id bigint not null auto_increment,
   descricao varchar(60) not null,
 
